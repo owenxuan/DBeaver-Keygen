@@ -1,4 +1,4 @@
-# DBeaver破解
+# DBeaver-Keygen
 
 ## 安装前准备
 
