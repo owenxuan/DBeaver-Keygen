@@ -28,7 +28,7 @@
 
 1. 修改hosts
 
-hosts文件路径：**C:\Windows\System32\drivers\etc\hosts**
+hosts文件路径：`C:\Windows\System32\drivers\etc\hosts`
 
 ```ini
 127.0.0.1       dbeaver.com
@@ -40,7 +40,7 @@ hosts文件路径：**C:\Windows\System32\drivers\etc\hosts**
 
 3. 双击打开破解文件
 
-Patch路径为：**C:\Users\Users\AppData\Local\DBeaverUltimate\plugins**（默认路径，按照实际修改）
+Patch路径为：`C:\Users\Users\AppData\Local\DBeaverUltimate\plugins`（默认路径，按照实际修改）
 
 ![120fe08bedb87022d51816f4fff442f](http://owenxuan.test.upcdn.net/MarkDown/120fe08bedb87022d51816f4fff442f.png)
 
