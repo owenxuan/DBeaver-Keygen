@@ -3,6 +3,7 @@
 ## 安装前准备
 
 1. 下载DBeaver
+
    [Download DBeaver Edition](https://dbeaver.com/download/)
 
 2. 下载java
