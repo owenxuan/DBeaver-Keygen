@@ -3,7 +3,7 @@
 ## 安装前准备
 
 1. 下载DBeaver
-    [Download DBeaver Edition](https://dbeaver.com/download/)
+   [Download DBeaver Edition](https://dbeaver.com/download/)
 
 2. 下载java
 
@@ -11,10 +11,17 @@
 
 3. 下载破解文件
 
+   [DBeaver-Keygen.jar](http://owenxuan.link:3000/owenxuan/DBeaver-Keygen/raw/branch/main/DBeaver-Keygen.jar)
+
 ## 开始安装
 
 1. 安装DBeaver
+
+   略。。。
+
 2. 安装java
+
+   略。。。
 
 ## 破解
 
@@ -26,7 +33,11 @@ hosts文件路径：**C:\Windows\System32\drivers\etc\hosts**
 127.0.0.1       dbeaver.com
 ```
 
-2. 双击打开破解文件
+2. 将系统文件显示模式改为显示隐藏项目
+
+![1704253428012](http://owenxuan.test.upcdn.net/MarkDown/1704253428012.png)
+
+3. 双击打开破解文件
 
 ![120fe08bedb87022d51816f4fff442f](http://owenxuan.test.upcdn.net/MarkDown/120fe08bedb87022d51816f4fff442f.png)
 
@@ -36,4 +47,4 @@ hosts文件路径：**C:\Windows\System32\drivers\etc\hosts**
 
 ![96d95dfd4af84a3a3ebac9b5294832b](http://owenxuan.test.upcdn.net/MarkDown/96d95dfd4af84a3a3ebac9b5294832b.png)
 
-4. 破解完成
+## 破解完成
