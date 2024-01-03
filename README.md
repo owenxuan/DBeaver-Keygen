@@ -34,11 +34,13 @@ hosts文件路径：**C:\Windows\System32\drivers\etc\hosts**
 127.0.0.1       dbeaver.com
 ```
 
-2. 将系统文件显示模式改为显示隐藏项目
+2. 将系统文件显示模式改为显示隐藏项目（使用默认路径安装需要）
 
 ![1704253428012](http://owenxuan.test.upcdn.net/MarkDown/1704253428012.png)
 
 3. 双击打开破解文件
+
+Patch路径为：**C:\Users\Users\AppData\Local\DBeaverUltimate\plugins**（默认路径，按照实际修改）
 
 ![120fe08bedb87022d51816f4fff442f](http://owenxuan.test.upcdn.net/MarkDown/120fe08bedb87022d51816f4fff442f.png)
 
